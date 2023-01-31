@@ -4,7 +4,7 @@ var peso = [15, 22, 31, 37];
 //crie uma função para calcular a média dos pesos e console o resultado
 function calculate(){
   var soma = peso[0] + peso[1] + peso[2] + peso [3];
-  var media = soma/peso.lenght;
+  var media = soma/peso.length;
   console.log (media); 
 }
 
